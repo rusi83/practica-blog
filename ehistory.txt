@@ -1,7 +1,2 @@
-<<<<<<< HEAD
- Soy Ariana Rusinque 
+git  Soy Ariana Rusinque 
 Naci el 15 de octubre del 2015
-=======
-Soy Ariana Rusinque 
-Naci el 15 de octubre del 2015
->>>>>>> d6a84df (Correccion Ehistory y rempazo checkout)
