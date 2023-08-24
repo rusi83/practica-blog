@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
- Soy Ariana Rusinque 
+Soy Ariana Rusinque -fix 
 Naci el 15 de octubre del 2015
-=======
-Soy Ariana Rusinque 
-Naci el 15 de octubre del 2015
->>>>>>> checkout_pru
-=======
-git  Soy Ariana Rusinque 
-Naci el 15 de octubre del 2015
->>>>>>> main
