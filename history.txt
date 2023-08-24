@@ -6,8 +6,12 @@ Hoy habaremos de su historia
 
 Es de una altura prmedio de un latinoamricano
 
+<<<<<<< HEAD
+Mañana nos enfocaremos en su vida laboral
+=======
 Mañana nos enfocaremos en su vida laboral
 
 incio de segundo dev
 
 commit desde w10
+>>>>>>> main
